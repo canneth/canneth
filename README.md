@@ -10,7 +10,6 @@ I'm Canneth, a self-taught developer who's just beginning his exciting journey i
 ### Here are some robotics passion projects I did in the past, if you're interested
 - [Project Nak](https://canneth.github.io/project_nak.html) | Repo: [project-nak](https://github.com/canneth/project-nak)
 - [Project Proximus (aka DogTrot)](https://canneth.github.io/project_dogTrot.html) | Repo: [project-proximus](https://github.com/canneth/project-proximus)
-- [Project Nak](https://canneth.github.io/project_nak.html) | Repo: [project-nak](https://github.com/canneth/project-nak)
 
 ### I've also built (and occassionally still do) cool things with my mechatronics background
 - [Project Ramshackle](https://canneth.github.io/project_ramshackle.html)
