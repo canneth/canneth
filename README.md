@@ -1,9 +1,12 @@
+# ⚠️ Outdated
+This write-up is outdated. I plan to update this properly at a later time, but for now, the links still work!
+
 # 👋 Welcome!
 I'm Canneth, a self-taught developer who's just beginning his exciting journey into web development!
 
 ### Check out my recent works!
 - [Personal Website v1](https://canneth.dev) | Repo: [personal-website-v1](https://github.com/canneth/personal-website-v1)
-- [HelloFriend!](https://hello-friend-chat.vercel.app) | Repo: [hello-friend](https://github.com/canneth/hello-friend) (Incomplete, development in progress)
+- [HelloFriend!](https://hello-friend-chat.vercel.app) | Repo: [hello-friend](https://github.com/canneth/hello-friend) (Incomplete, KIV)
 - [JustGo!](https://justgo.dev)
   - Frontend repo: [just-go-frontend](https://github.com/canneth/just-go-frontend) (Incomplete, KIV)
   - Backend repo: [just-go-backend](https://github.com/canneth/just-go-backend) (Not yet started)
